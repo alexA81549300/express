@@ -1,0 +1,265 @@
+{
+  "generated_utc": "2025-12-13T07:46:09.816775Z",
+  "items": [
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4730088298,
+        "name": "SARIF file",
+        "size_in_bytes": 18661
+      },
+      "created_at": "2025-12-01T21:26:44Z",
+      "expires_at": "2025-12-06T21:26:44Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4730088298.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4666096764,
+        "name": "SARIF file",
+        "size_in_bytes": 18665
+      },
+      "created_at": "2025-11-24T21:29:43Z",
+      "expires_at": "2025-11-29T21:29:43Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4666096764.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4594222030,
+        "name": "SARIF file",
+        "size_in_bytes": 18664
+      },
+      "created_at": "2025-11-17T21:29:26Z",
+      "expires_at": "2025-11-22T21:29:26Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4594222030.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4524794078,
+        "name": "SARIF file",
+        "size_in_bytes": 18664
+      },
+      "created_at": "2025-11-10T21:28:17Z",
+      "expires_at": "2025-11-15T21:28:17Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4524794078.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4454630148,
+        "name": "SARIF file",
+        "size_in_bytes": 18664
+      },
+      "created_at": "2025-11-03T21:27:37Z",
+      "expires_at": "2025-11-08T21:27:37Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4454630148.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4387124810,
+        "name": "SARIF file",
+        "size_in_bytes": 18663
+      },
+      "created_at": "2025-10-27T21:26:49Z",
+      "expires_at": "2025-11-01T21:26:49Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4387124810.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4321690663,
+        "name": "SARIF file",
+        "size_in_bytes": 18663
+      },
+      "created_at": "2025-10-20T21:27:49Z",
+      "expires_at": "2025-10-25T21:27:49Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4321690663.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4259050027,
+        "name": "SARIF file",
+        "size_in_bytes": 18662
+      },
+      "created_at": "2025-10-13T21:25:24Z",
+      "expires_at": "2025-10-18T21:25:24Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4259050027.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4197351829,
+        "name": "SARIF file",
+        "size_in_bytes": 18660
+      },
+      "created_at": "2025-10-06T21:25:29Z",
+      "expires_at": "2025-10-11T21:25:29Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4197351829.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4137105756,
+        "name": "SARIF file",
+        "size_in_bytes": 18661
+      },
+      "created_at": "2025-09-29T21:25:18Z",
+      "expires_at": "2025-10-04T21:25:18Z",
+      "zip": "ci_artifacts/repo_level/SARIF file__4137105756.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126985175,
+        "name": "coverage-node-22-ubuntu-latest",
+        "size_in_bytes": 5744
+      },
+      "created_at": "2025-09-28T21:26:35Z",
+      "expires_at": "2025-09-29T21:26:35Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-22-ubuntu-latest__4126985175.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126975776,
+        "name": "coverage-node-23-ubuntu-latest",
+        "size_in_bytes": 5744
+      },
+      "created_at": "2025-09-28T21:23:16Z",
+      "expires_at": "2025-09-29T21:23:16Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-23-ubuntu-latest__4126975776.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126975694,
+        "name": "coverage-node-19-ubuntu-latest",
+        "size_in_bytes": 5745
+      },
+      "created_at": "2025-09-28T21:23:14Z",
+      "expires_at": "2025-09-29T21:23:14Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-19-ubuntu-latest__4126975694.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126975407,
+        "name": "coverage-node-17-ubuntu-latest",
+        "size_in_bytes": 5745
+      },
+      "created_at": "2025-09-28T21:23:08Z",
+      "expires_at": "2025-09-29T21:23:08Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-17-ubuntu-latest__4126975407.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126975231,
+        "name": "coverage-node-21-ubuntu-latest",
+        "size_in_bytes": 5746
+      },
+      "created_at": "2025-09-28T21:23:04Z",
+      "expires_at": "2025-09-29T21:23:05Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-21-ubuntu-latest__4126975231.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126975097,
+        "name": "coverage-node-16-ubuntu-latest",
+        "size_in_bytes": 5745
+      },
+      "created_at": "2025-09-28T21:23:01Z",
+      "expires_at": "2025-09-29T21:23:02Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-16-ubuntu-latest__4126975097.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126974396,
+        "name": "coverage-node-20-ubuntu-latest",
+        "size_in_bytes": 5744
+      },
+      "created_at": "2025-09-28T21:22:47Z",
+      "expires_at": "2025-09-29T21:22:47Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-20-ubuntu-latest__4126974396.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126974249,
+        "name": "coverage-node-18-ubuntu-latest",
+        "size_in_bytes": 5745
+      },
+      "created_at": "2025-09-28T21:22:44Z",
+      "expires_at": "2025-09-29T21:22:44Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-18-ubuntu-latest__4126974249.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126973402,
+        "name": "coverage-node-23-windows-latest",
+        "size_in_bytes": 5745
+      },
+      "created_at": "2025-09-28T21:22:28Z",
+      "expires_at": "2025-09-29T21:22:28Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-23-windows-latest__4126973402.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    },
+    {
+      "repo": "alexA81549300/express",
+      "artifact": {
+        "id": 4126972335,
+        "name": "coverage-node-20-windows-latest",
+        "size_in_bytes": 5745
+      },
+      "created_at": "2025-09-28T21:22:08Z",
+      "expires_at": "2025-09-29T21:22:08Z",
+      "zip": "ci_artifacts/repo_level/coverage-node-20-windows-latest__4126972335.zip",
+      "path": "ci_artifacts/repo_level",
+      "mode": "repo_level"
+    }
+  ]
+}
